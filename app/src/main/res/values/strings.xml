@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Retrofit Assignment</string>
+    <string name="name_placeholder">Pokemon Name</string>
+    <string name="abilities_placeholder">Abilities</string>
+    <string name="pokemon_info_placeholder">Here is some pokemon info</string>
+    <string name="title_placeholder">Pokemon Name</string>
+</resources>
